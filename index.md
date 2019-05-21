@@ -2,7 +2,13 @@
 layout: default
 ---
 
-![Facebook](/assets/img/036-facebook.png) ![LinkedIn](/assets/img/027-linkedin.png) ![Skype](/assets/img/015-skype.png) ![Twitter](/assets/img/008-twitter.png)
+
+![Facebook](/assets/img/036-facebook.png =100x100) 
+
+
+![LinkedIn](/assets/img/027-linkedin.png | widht=100) 
+
+![Skype](/assets/img/015-skype.png) ![Twitter](/assets/img/008-twitter.png)
 
 
 
