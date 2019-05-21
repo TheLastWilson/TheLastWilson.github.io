@@ -2,14 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/img/036-facebook.png" width="48">
-
-![Facebook](/assets/img/036-facebook.png =100x100) 
-
-
-![LinkedIn](/assets/img/027-linkedin.png | widht=100) 
-
-![Skype](/assets/img/015-skype.png) ![Twitter](/assets/img/008-twitter.png)
+<img src="/assets/img/036-facebook.png" width="48">  <img src="/assets/img/027-linkedin.png" width="48">  <img src="/assets/img/015-skype.png" width="48">  <img src="/assets/img/008-twitter.png" width="48">
 
 
 
