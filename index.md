@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<img src="/assets/img/036-facebook.png" width="48">
 
 ![Facebook](/assets/img/036-facebook.png =100x100) 
 
