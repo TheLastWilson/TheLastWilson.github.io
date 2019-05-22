@@ -3,4 +3,4 @@ logo: /assets/img/profile.jpg
 description: A CV & contact webpage.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
