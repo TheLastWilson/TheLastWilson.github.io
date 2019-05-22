@@ -32,6 +32,7 @@ A lead engineer with a broad range of experience covering HPC Storage on GPFS/Sp
 * Successful deployment of new workflow & ticketing systems 
 
 ## Certifications and Training
+
 * AWS Solutions Architect Associate - Achieved: May 2018
 * IBM Certified Specialist Storage Technical V1 - Achieved: April 2018
 * ITIL Foundation certification - Achieved: Dec 2015
@@ -40,104 +41,28 @@ A lead engineer with a broad range of experience covering HPC Storage on GPFS/Sp
 * Google Apps Certified Deployment Specialist - Achieved: Nov 2011, Expired: Nov 2014
 
 
-### Header 3
+# Employment History
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Technical Architect - OCF Plc - March 2018 to Present.
+A split role between client responsibilities and acting as leader of the pre-sales engineering team. As primary client contact point for Scotland responsibilities included absolute design of new solution proposals and tender submissions within the region. Within the pre-sales team duties included assignment of work and implementation of new workflow, feedback and KPI processes along with day to day tasks involved in the design & specification of new projects and writing technical tender response details for the wider sales team.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Head of System Administration and IT - Maglabs Ltd - March 2017 to March 2018
+Responsible for the management of a team of three further system administrators during the initial design & deployment of new Amazon Web Services based product. Duties also included management of existing client services in co-lo data centres, implementation of new support processes & ticketing system and oversight of all internal IT operations.  
 
-#### Header 4
+## HPC Storage Engineer - OCF Plc - April 2012 to March 2017
+OCF are predominantly focused on High Performance Computer deployments with the majority of projects involving solutions from business partners IBM, Lenovo and DDN. Day to day operations focused on system administration and support of a universities multi-petabyte research data archive filesystem and hardware support for the underlying infrastructure. Project work during this role included design and deployment of multiple expansion projects along with involvement in deployment projects for additional customers. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Dev/Ops Engineer - Cloudreach Ltd- June 2011 to March 2012
+Cloudreach, as both Amazon AWS Partners and Google Apps Premier Plus Partner in the UK, specialise in offering the expertise to allow companies to effectively implement Cloud Computing solutions. Day to day the role focused primary on the creation, management and support of AWS EC2 environments and the migration to, and support of, Google apps domains.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Internal IT support/Network Consultant - ProNetExpert Ltd - July 2010 to May 2011
+Specialising in Cisco equipment ProNetExpert Ltd offers networking Consultancy services, Support and Training . The role was separated into two areas; Internal facing  IT support during business hours and customer facing as a Network consultant. Customer facing tasks included providing 24/7 support and on-site hardware upgrades of network backbone switches and wireless infrastructure.
 
 
-### Definition lists can be used with HTML syntax.
+# Higher Education
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## M.Sc. Advanced Networking - Edinburgh Napier University - 2009
+Thesis subject: Firewall optimisation and anomaly detection. This project researched causes of anomalies in firewall rule-sets and between multiple firewalls. The practical side of the project include a Perl script that parsed firewall rule sets and looked for anomalies outlined in the research.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## B.Sc. (hons) Network Computing - Edinburgh Napier University - 2007
+Dissertation subject: The provision of basic computing facilities using Linux and Open Source Software
