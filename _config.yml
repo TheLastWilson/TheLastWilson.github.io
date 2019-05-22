@@ -1,6 +1,6 @@
 title: Craig A. Wilson
 logo: /assets/img/profile.jpg
 description: A CV & contact webpage.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
