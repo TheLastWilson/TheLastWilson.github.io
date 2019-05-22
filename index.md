@@ -4,37 +4,41 @@ layout: default
 
 [<img src="/assets/img/036-facebook.png" width="48">](http://www.facebook.com/craigawilson)  [<img src="/assets/img/027-linkedin.png" width="48">](https://www.linkedin.com/in/craigawilson/)  [<img src="/assets/img/015-skype.png" width="48">](skype:cawilson.co.uk?add)  [<img src="/assets/img/008-twitter.png" width="48">](https://twitter.com/thelastwilson)
 
-<form action="https://formspree.io/formspree@cawilson.co.uk" method="POST">
-  Name: <input type="text" name="Name" placeholder="Your name">
 
-Email: <input type="text" name="email" placeholder="Your email">
+# Summary
 
-Message: <textarea name="message" placeholder="Type your messsage"></textarea>
-  <input type="submit" value="Send">
-</form>
+A lead engineer with a broad range of experience covering HPC Storage on GPFS/Spectrum Scale storage clusters, Cloud Computing, Linux system administration and network management. Proven track record of being primary customer contact responsible for business as usual operations as well as deployment of expansion projects including management of direct report engineers and on-site deployment teams. 
 
+## Abilities
 
+* Management of system admin, pre-sales engineering & on-site deployment teams
+* Management of all aspect of business as usual operations including change management, support processes and special projects
+* Experience driving collaboration between customers and vendor staff.  
+* Acting as lead contact during critical service outages.
+* Experienced in Design, Planning and Deployment of both physical and logical aspects of large computing estates both in physical * data centres and in cloud computing environments 
+* System administrator for multiple technologies such as 
+* AWS services including EC2, S3, RDS, ECS and IAM
+* Multiple petabyte Spectrum Scale cluster filesystems
+* Red Hat Enterprise Linux and CentOS Linux environments, 
+* IBM & Lenovo server hardware
+* Network Environments (Ethernet, Infiniband and Fibre Channel) 
+* Large storage devices (IBM DS, DDN SFA, Netapp EF) 
+* Enterprise backup solutions employing TSM and IBM enterprise tape
 
-[Link to another page](./another-page.html).
+## Achievements 
 
+* Designed, planned and implemented two multiple million pound expansion projects 
+* Planned and implemented a multiple site migration of physical infrastructure 
+* Successful deployment of new workflow & ticketing systems 
 
+## Certifications and Training
+* AWS Solutions Architect Associate - Achieved: May 2018
+* IBM Certified Specialist Storage Technical V1 - Achieved: April 2018
+* ITIL Foundation certification - Achieved: Dec 2015
+* Prince2 Practitioner certification - Achieved: Dec 2014
+* Linux Professional Institute Certification 1 (LPIC-1) - Achieved: May 2012, Expired May 2017
+* Google Apps Certified Deployment Specialist - Achieved: Nov 2011, Expired: Nov 2014
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
