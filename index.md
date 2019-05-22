@@ -7,7 +7,7 @@ layout: default
 <form action="https://formspree.io/formspree@cawilson.co.uk" method="POST">
   Name: <input type="text" name="Name" placeholder="Your name">
   Email: <input type="text" name="email" placeholder="Your email">
-  Message: <textarea name="message" placeholder="Type your messsage></textarea>
+  Message: <textarea name="message" placeholder="Type your messsage"></textarea>
   <input type="submit" value="Send">
 </form>
 
