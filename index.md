@@ -4,6 +4,13 @@ layout: default
 
 [<img src="/assets/img/036-facebook.png" width="48">](http://www.facebook.com/craigawilson)  [<img src="/assets/img/027-linkedin.png" width="48">](https://www.linkedin.com/in/craigawilson/)  [<img src="/assets/img/015-skype.png" width="48">](skype:cawilson.co.uk?add)  [<img src="/assets/img/008-twitter.png" width="48">](https://twitter.com/thelastwilson)
 
+<form action="https://formspree.io/formspree@cawilson.co.uk" method="POST">
+  Name: <input type="text" name="Name" placeholder="Your name">
+  Email: <input type="text" name="email" placeholder="Your email">
+  Message: <textarea name="message" placeholder="Type your messsage></textarea>
+  <input type="submit" value="Send">
+</form>
+
 
 
 [Link to another page](./another-page.html).
